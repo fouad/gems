@@ -1,0 +1,25 @@
+{
+  "name": "gems",
+  "version": "0.1.0",
+  "description": "List of gemstones",
+  "main": "index.js",
+  "bin": {
+    "gems": "cli.js"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fouad/gems.git"
+  },
+  "keywords": [
+    "gems"
+  ],
+  "author": "Fouad Matin <m@fouad.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fouad/gems/issues"
+  },
+  "homepage": "https://github.com/fouad/gems#readme"
+}
